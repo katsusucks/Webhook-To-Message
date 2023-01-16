@@ -10,3 +10,7 @@ const webhookUrl = 'URL'; //webhook url
 const message = 'MESSAGE'; //message
 getSend(webhookUrl, message);
 ```
+
+NPM PACKAGE: https://www.npmjs.com/package/touya
+
+Made with 💖
